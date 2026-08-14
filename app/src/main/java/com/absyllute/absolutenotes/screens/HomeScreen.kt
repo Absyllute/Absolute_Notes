@@ -1,4 +1,4 @@
-package com.absyllute.absolutenotes.home
+package com.absyllute.absolutenotes.screens
 
 import android.content.res.Configuration
 import androidx.compose.foundation.layout.Arrangement
